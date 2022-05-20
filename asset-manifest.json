@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/DorianVK/static/js/main.3800536f.js",
+    "static/media/img_couverture_0.jpeg": "/DorianVK/static/media/img_couverture_0.d63bac6c6b96b83d8b08.jpeg",
+    "static/media/img_couverture_1.jpeg": "/DorianVK/static/media/img_couverture_1.bcb28dd572261327c31e.jpeg",
+    "static/media/img_couverture_musique_0.jpeg": "/DorianVK/static/media/img_couverture_musique_0.bf77fbb4b49814beb869.jpeg",
+    "index.html": "/DorianVK/index.html",
+    "main.3800536f.js.map": "/DorianVK/static/js/main.3800536f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3800536f.js"
+  ]
+}
